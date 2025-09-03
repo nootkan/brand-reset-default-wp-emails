@@ -4,7 +4,7 @@
  * Description: Rebrand password reset and related emails with custom From name/email, subject brand, optional HTML template (safe-save), test email, and multisite overrides.
  * Version: 1.2.1
  * Author: Van Isle Web Solutions
- * Author URI:		https://www.vanislebc.com/
+ * Author URI: https://www.vanislebc.com/
  * License: GPLv2 or later
  * Requires at least: 5.6
  * Tested up to: 6.8.2
