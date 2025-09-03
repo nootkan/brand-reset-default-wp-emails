@@ -1,6 +1,6 @@
 === Branded Reset Emails (Advanced) ===
 Contributors: Van Isle Web Solutions
-Author URI:		https://www.vanislebc.com/
+Author URI: https://www.vanislebc.com/
 Tags: email, password reset, branding, wp_mail, html email, multisite
 Tested up to: 6.8.2
 Stable tag: 1.2.1
